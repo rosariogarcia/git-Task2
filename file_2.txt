@@ -3,7 +3,8 @@
 #lista vacia
 lista = []
 
-#lista con elementos
+#Lista con elementos.
+lista =[3,4,"test0", 9,9,[],["lista"]]
 lista =[2,4,"test", 4,5,[],["lista"]]
 
 #tamaño de la lista
