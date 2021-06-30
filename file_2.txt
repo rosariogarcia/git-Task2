@@ -6,12 +6,15 @@ lista = []
 #Lista con elementos.
 lista =[3,4,"test0", 9,9,[],["lista"]]
 lista =[2,4,"test", 4,5,[],["lista"]]
+lista =[1,2 ,3]
 
 #tamaño de la lista
 longitud_lista = len(lista)
 
 #agregar elementos a la lista
 lista.append(3)
+lista.append(13)
 
 #imprimir lista
+#imprimir lis13a
 print(lista)
