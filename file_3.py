@@ -1,7 +1,9 @@
 #Descomposicion de numeros
 
 entrada = 999
-posicion = 20
+#inicializamos la posicion en 0
+posicion = 0
+
 digito = entrada % 10
 print ('digito: ', digito, 'posicion: ', posicion)
 
