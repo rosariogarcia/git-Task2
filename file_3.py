@@ -1,7 +1,7 @@
 #Descomposicion de numeros
 
-entrada = 123
-posicion = 0
+entrada = 999
+posicion = 20
 digito = entrada % 10
 print ('digito: ', digito, 'posicion: ', posicion)
 
